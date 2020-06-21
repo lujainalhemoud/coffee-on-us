@@ -1,0 +1,47 @@
+body {
+  background-color: grey;
+}
+
+.STARBUCKS {
+  color: green;
+}
+.CARIBOU {
+  color: blue;
+}
+.COSTA {
+  color: red;
+}
+table {
+    border: black;
+  border-collapse: collapse;
+  border-color: black;
+  padding: 0em;
+}
+th,
+td {
+  border: 1px solid white;
+}
+p{
+    margin: 0em;
+}
+
+img { 
+     display: block; 
+     inline-block 
+    inline 
+}
+
+
+.UL{
+    list-style: disc;
+}
+.OK{
+   T text-align: right;
+}
+
+.ENGLISH{
+    margin: 400px;
+}
+IMG.1{
+    display: :left;
+}
